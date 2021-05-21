@@ -5,7 +5,7 @@ The aim of this experiment was to find an optimal concentration gradient for syn
 The following samples are included:
 
 | Sample name | Sample description |
-| :---: | :---: |
+| :--- | :--- |
 | RhodoM100XDilBC10e5 | Only biological controls; 100X dilution of standards; 1e5 barcode molecules |
 | WWRhodoM100XDilBC10e5 | Wastewater + biological controls; 100X dilution of standards; 1e5 barcode molecules |
 | WWM100XDilBC10e5 | Only wastewater; 100X dilution of standards; 1e5 barcode molecules |
