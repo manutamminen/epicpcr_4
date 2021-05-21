@@ -4,21 +4,20 @@ The aim of this experiment was to find an optimal concentration gradient for syn
 
 The following samples are included:
 
-- RhodoM100XDilBC10e5: Only biological controls; 100X dilution of standards; 1e5 barcode molecules
-- WWRhodoM100XDilBC10e5: Wastewater + biological controls; 100X dilution of standards; 1e5 barcode molecules
-- WWM100XDilBC10e5: Only wastewater; 100X dilution of standards; 1e5 barcode molecules
-
-- RhodoM100XDilBC10e6: Only biological controls; 100X dilution of standards; 1e6 barcode molecules
-- WWRhodoM100XDilBC10e6: Wastewater + biological controls; 100X dilution of standards; 1e6 barcode molecules
-- WWM100XDilBC10e6: Only wastewater; 100X dilution of standards; 1e6 barcode molecules
-
-- RhodoM10XDilBC10e5: Only biological controls; 10X dilution of standards; 1e5 barcode molecules
-- WWRhodoM10XDilBC10e5: Wastewater + biological controls; 10X dilution of standards; 1e5 barcode molecules
-- WWM10XDilBC10e5: Only wastewater; 10X dilution of standards; 1e5 barcode molecules
-
-- RhodoM10XDilBC10e6: Only biological controls; 100X dilution of standards; 1e6 barcode molecules
-- WWRhodoM10XDilBC10e6: Wastewater + biological controls; 100X dilution of standards; 1e6 barcode molecules
-- WWM10XDilBC10e6: Only wastewater; 100X dilution of standards; 1e6 barcode molecules
+| Sample name | Sample description |
+| :---: | :---: |
+| RhodoM100XDilBC10e5 | Only biological controls; 100X dilution of standards; 1e5 barcode molecules |
+| WWRhodoM100XDilBC10e5 | Wastewater + biological controls; 100X dilution of standards; 1e5 barcode molecules |
+| WWM100XDilBC10e5 | Only wastewater; 100X dilution of standards; 1e5 barcode molecules |
+| RhodoM100XDilBC10e6 | Only biological controls; 100X dilution of standards; 1e6 barcode molecules |
+| WWRhodoM100XDilBC10e6 | Wastewater + biological controls; 100X dilution of standards; 1e6 barcode molecules |
+| WWM100XDilBC10e6 | Only wastewater; 100X dilution of standards; 1e6 barcode molecules |
+| RhodoM10XDilBC10e5 | Only biological controls; 10X dilution of standards; 1e5 barcode molecules |
+| WWRhodoM10XDilBC10e5 | Wastewater + biological controls; 10X dilution of standards; 1e5 barcode molecules |
+| WWM10XDilBC10e5 | Only wastewater; 10X dilution of standards; 1e5 barcode molecules |
+| RhodoM10XDilBC10e6 | Only biological controls; 100X dilution of standards; 1e6 barcode molecules |
+| WWRhodoM10XDilBC10e6 | Wastewater + biological controls; 100X dilution of standards; 1e6 barcode molecules |
+| WWM10XDilBC10e6 | Only wastewater; 100X dilution of standards; 1e6 barcode molecules |
 
 Raw data available at https://zenodo.org/record/4766882
 
