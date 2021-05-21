@@ -1,0 +1,552 @@
+Sample	Taxonomy	Count
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Pseudarcobacter(1.00),s:Arcobacter cibarius(0.12)	68
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(0.98),g:Propionivibrio(0.98),s:uncultured bacterium(0.33)	15
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Cytophagales(1.00),f:Cyclobacteriaceae(1.00),g:Fabibacter(0.90),s:uncultured bacterium(0.28)	13
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Poseidonibacter(0.52),s:uncultured bacterium(0.61)	13
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:BRH-c20a(1.00),o:uncultured bacterium(0.93)	9
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:Lactobacillales(1.00),f:Streptococcaceae(1.00),g:Streptococcus(1.00),s:unidentified(0.34)	8
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.99),c:Gammaproteobacteria(0.99),o:Burkholderiales(0.99),f:Comamonadaceae(0.99),g:Comamonas(0.78),s:uncultured bacterium(0.83)	8
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Patescibacteria(1.00),c:Gracilibacteria(1.00),o:metagenome(0.85)	7
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Moraxellaceae(1.00),g:Acinetobacter(1.00),s:uncultured Acinetobacter sp.(0.84)	7
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Spongiibacteraceae(1.00),g:Litorivivens(1.00),s:Litorivivens aequoris(1.00)	6
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(1.00),g:Paludibacter(1.00),s:uncultured bacterium(0.93)	5
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(1.00),f:uncultured Firmicutes bacterium(0.99)	5
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Agathobacter(0.71),s:uncultured bacterium(1.00)	5
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Cyanobacteria(1.00),c:Cyanobacteriia(1.00),o:Chloroplast(1.00),f:Rhodomonas salina(0.88)	4
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.86),c:Gammaproteobacteria(0.86),o:Burkholderiales(0.79),f:Rhodocyclaceae(0.69),g:Propionivibrio(0.68),s:uncultured soil bacterium(0.41)	4
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Methylophilaceae(1.00),g:Methylotenera(1.00),s:uncultured bacterium(0.98)	4
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:Bacteroides clarus(0.55)	3
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Flavobacterium(1.00),s:Flavobacterium sp. EP333(0.30)	3
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:[Eubacterium] ventriosum group(0.96),s:uncultured organism(0.28)	3
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(0.71),f:Oscillospiraceae(0.70),g:UCG-005(0.62),s:uncultured bacterium(0.96)	3
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(0.99),g:uncultured(0.58),s:uncultured bacterium(0.99)	2
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Prevotellaceae(1.00),g:Prevotella_9(1.00),s:uncultured bacterium(0.69)	2
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Tannerellaceae(1.00),g:Parabacteroides(1.00),s:Parabacteroides merdae(1.00)	2
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Cyanobacteria(1.00),c:Vampirivibrionia(1.00),o:Gastranaerophilales(1.00),f:uncultured bacterium(1.00)	2
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:RF39(1.00),f:uncultured bacterium(0.72)	2
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnospiraceae NK4A136 group(0.67),s:uncultured bacterium(1.00)	2
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:Faecalibacterium(1.00),s:uncultured bacterium(1.00)	2
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Enterobacterales(1.00),f:Aeromonadaceae(1.00),g:Aeromonas(1.00),s:Aeromonas sp. 08006(0.80)	2
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(0.64),f:Prolixibacteraceae(0.19),g:uncultured(0.17),s:uncultured bacterium(0.16)	1
+RhodoM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Sulfurospirillaceae(1.00),g:Sulfurospirillum(1.00),s:Sulfurospirillum arsenophilum(0.52)	1
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Pseudarcobacter(1.00),s:Arcobacter cibarius(0.12)	128
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(0.98),g:Propionivibrio(0.98),s:uncultured bacterium(0.33)	24
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Cytophagales(1.00),f:Cyclobacteriaceae(1.00),g:Fabibacter(0.90),s:uncultured bacterium(0.28)	23
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Poseidonibacter(0.52),s:uncultured bacterium(0.61)	21
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:BRH-c20a(1.00),o:uncultured bacterium(0.93)	15
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Sulfurospirillaceae(1.00),g:Sulfurospirillum(1.00),s:Sulfurospirillum arsenophilum(0.52)	9
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Flavobacterium(1.00),s:Flavobacterium sp. EP333(0.30)	6
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:Faecalibacterium(1.00),s:uncultured bacterium(1.00)	6
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Synergistota(0.02),c:Synergistia(0.02),o:Synergistales(0.02),f:Synergistaceae(0.02),g:Aminivibrio(0.02),s:uncultured bacterium(0.45)	6
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(0.97),c:BRH-c20a(0.48),o:uncultured bacterium(0.49)	5
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(1.00),f:uncultured Firmicutes bacterium(0.99)	5
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:Ruminococcus(1.00),s:uncultured bacterium(1.00)	5
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Comamonadaceae(1.00),g:Polaromonas(0.79),s:Polaromonas vacuolata(0.35)	5
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Moraxellaceae(1.00),g:Acinetobacter(1.00),s:uncultured Acinetobacter sp.(0.84)	5
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Agathobacter(0.71),s:uncultured bacterium(1.00)	4
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(0.98),c:Gammaproteobacteria(0.98),o:Burkholderiales(0.97),f:Rhodocyclaceae(0.84),g:Propionivibrio(0.77),s:uncultured soil bacterium(0.32)	4
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnospiraceae NK4A136 group(0.67),s:uncultured bacterium(1.00)	3
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Alphaproteobacteria(1.00),o:Rhodospirillales(1.00),f:Magnetospiraceae(1.00),g:uncultured(0.99),s:uncultured marine bacterium(0.45)	3
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Cyanobacteria(1.00),c:Cyanobacteriia(1.00),o:Chloroplast(1.00),f:Rhodomonas salina(0.88)	2
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:RF39(1.00),f:uncultured bacterium(0.72)	2
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(0.89),f:uncultured Firmicutes bacterium(0.89)	2
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:[Eubacterium] ventriosum group(0.87),s:uncultured bacterium(1.00)	2
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Roseburia(0.76),s:uncultured bacterium(0.63)	2
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(0.99),c:Gammaproteobacteria(0.99),o:Burkholderiales(0.99),f:Comamonadaceae(0.99),g:Comamonas(0.78),s:uncultured bacterium(0.83)	2
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(0.97),c:Bacteroidia(0.97),o:Bacteroidales(0.97),f:Marinilabiliaceae(0.97),g:[Cytophaga] xylanolytica group(0.97),s:uncultured prokaryote(0.36)	1
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:uncultured bacterium(0.83)	1
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(1.00),g:Paludibacter(1.00),s:uncultured bacterium(0.93)	1
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Cryomorphaceae(1.00),g:Owenweeksia(1.00),s:uncultured Owenweeksia sp.(0.64)	1
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(0.92),c:Clostridia(0.90),o:Lachnospirales(0.81),f:Lachnospiraceae(0.81),g:Lachnospiraceae UCG-008(0.02),s:uncultured bacterium(0.85)	1
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(1.00),f:uncultured bacterium(1.00)	1
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(0.96),f:Lachnospiraceae(0.96),g:Fusicatenibacter(0.69),s:uncultured Firmicutes bacterium(0.33)	1
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:[Eubacterium] hallii group(0.31),s:uncultured bacterium(1.00)	1
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Roseburia(0.67),s:uncultured bacterium(0.91)	1
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Peptostreptococcales-Tissierellales(1.00),f:Peptostreptococcaceae(1.00),g:uncultured(0.85),s:metagenome(0.85)	1
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(0.94),c:Gammaproteobacteria(0.94),o:Burkholderiales(0.91),f:Methylophilaceae(0.02),g:uncultured(0.04),s:metagenome(0.04)	1
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Alphaproteobacteria(1.00),o:Rhodobacterales(1.00),f:Rhodobacteraceae(1.00),g:uncultured bacterium(0.07)	1
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Methylophilaceae(1.00),g:Methylotenera(1.00),s:uncultured bacterium(0.98)	1
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Enterobacterales(1.00),f:Kangiellaceae(1.00),g:Pleionea(1.00),s:gamma proteobacterium GMD38C3(1.00)	1
+RhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:OM182 clade(1.00),g:uncultured gamma proteobacterium(0.74)	1
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Pseudarcobacter(1.00),s:Arcobacter cibarius(0.12)	158
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(0.98),g:Propionivibrio(0.98),s:uncultured bacterium(0.33)	59
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Poseidonibacter(0.52),s:uncultured bacterium(0.61)	33
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Cytophagales(1.00),f:Cyclobacteriaceae(1.00),g:Fabibacter(0.90),s:uncultured bacterium(0.28)	19
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:Ruminococcus(1.00),s:uncultured bacterium(1.00)	12
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Synergistota(0.02),c:Synergistia(0.02),o:Synergistales(0.02),f:Synergistaceae(0.02),g:Aminivibrio(0.02),s:uncultured bacterium(0.45)	11
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnospiraceae NK4A136 group(0.67),s:uncultured bacterium(1.00)	9
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Moraxellaceae(1.00),g:Acinetobacter(1.00),s:uncultured Acinetobacter sp.(0.84)	9
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:BRH-c20a(1.00),o:uncultured bacterium(0.93)	8
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Flavobacterium(1.00),s:Flavobacterium sp. EP333(0.30)	7
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Sulfurospirillaceae(1.00),g:Sulfurospirillum(1.00),s:Sulfurospirillum arsenophilum(0.52)	7
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Cyanobacteria(1.00),c:Vampirivibrionia(1.00),o:Gastranaerophilales(1.00),f:uncultured bacterium(0.83)	7
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(0.96),f:Lachnospiraceae(0.96),g:Fusicatenibacter(0.69),s:uncultured Firmicutes bacterium(0.33)	7
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.99),c:Gammaproteobacteria(0.99),o:Burkholderiales(0.99),f:Comamonadaceae(0.99),g:Comamonas(0.78),s:uncultured bacterium(0.83)	6
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Comamonadaceae(1.00),g:Polaromonas(0.79),s:Polaromonas vacuolata(0.35)	6
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Tannerellaceae(1.00),g:Parabacteroides(1.00),s:Parabacteroides merdae(1.00)	5
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Sphingobacteriales(1.00),f:NS11-12 marine group(1.00),g:uncultured bacterium(0.99)	5
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Comamonadaceae(0.86),g:Limnohabitans(0.29),s:uncultured bacterium(0.51)	5
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Enterobacterales(1.00),f:Aeromonadaceae(1.00),g:Aeromonas(1.00),s:Aeromonas sp. 08006(0.80)	5
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(0.96),c:Clostridia(0.96),o:Oscillospirales(0.95),f:Ruminococcaceae(0.95),g:Ruminococcus(0.95),s:uncultured bacterium(0.95)	4
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Cyanobacteria(1.00),c:Vampirivibrionia(1.00),o:Gastranaerophilales(1.00),f:uncultured bacterium(1.00)	3
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:Erysipelotrichales(1.00),f:Erysipelatoclostridiaceae(1.00),g:UCG-004(1.00),s:uncultured bacterium(1.00)	3
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:Lactobacillales(1.00),f:Streptococcaceae(1.00),g:Lactococcus(1.00),s:Lactococcus lactis(0.90)	3
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Peptostreptococcales-Tissierellales(1.00),f:Peptostreptococcaceae(1.00),g:uncultured(0.85),s:metagenome(0.85)	3
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:Lactobacillales(1.00),f:Streptococcaceae(1.00),g:Streptococcus(1.00),s:unidentified(0.34)	2
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:RF39(1.00),f:uncultured bacterium(0.72)	2
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.98),c:Gammaproteobacteria(0.98),o:Burkholderiales(0.97),f:Rhodocyclaceae(0.84),g:Propionivibrio(0.77),s:uncultured soil bacterium(0.32)	2
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Alphaproteobacteria(1.00),o:Caulobacterales(1.00),f:Hyphomonadaceae(1.00),g:Hyphomonas(0.98),s:Hyphomonas sp. VSW312(0.98)	2
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:Staphylococcales(1.00),f:Staphylococcaceae(1.00),g:Staphylococcus(1.00),s:Staphylococcus sp. ECH3(0.34)	1
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.99),c:Gammaproteobacteria(0.99),o:Enterobacterales(0.99),f:Aeromonadaceae(0.85),g:Aeromonas(0.85),s:Aeromonas sp. JF1445(0.01)	1
+RhodoM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Enterobacterales(0.72),f:Aeromonadaceae(0.64),g:Aeromonas(0.64),s:Carnobacterium maltaromaticum(0.10)	1
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Nitrosococcales(1.00),f:Methylophagaceae(1.00),g:Methylophaga(1.00),s:uncultured bacterium(0.99)	285
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Saccharospirillaceae(1.00),g:Saccharospirillum(1.00),s:Saccharospirillum sp. XCD-X5(1.00)	53
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Enterobacterales(1.00),f:Kangiellaceae(1.00),g:Pleionea(1.00),s:gamma proteobacterium GMD38C3(1.00)	29
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Halieaceae(1.00),g:Pseudohaliea(0.08),s:uncultured organism(0.04)	18
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Rhodothermia(1.00),o:Balneolales(1.00),f:Balneolaceae(1.00),g:Balneola(1.00),s:uncultured bacterium(1.00)	9
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Cryomorphaceae(1.00),g:Owenweeksia(1.00),s:uncultured Owenweeksia sp.(0.64)	7
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Pseudarcobacter(1.00),s:Arcobacter cibarius(0.12)	6
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Planctomycetota(1.00),c:Phycisphaerae(1.00),o:Phycisphaerales(1.00),f:Phycisphaeraceae(1.00),g:SM1A02(1.00),s:uncultured bacterium(0.87)	6
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:Staphylococcales(1.00),f:Staphylococcaceae(1.00),g:Staphylococcus(1.00),s:Staphylococcus sp. ECH3(0.34)	4
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(0.98),g:Propionivibrio(0.98),s:uncultured bacterium(0.33)	3
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Cytophagales(1.00),f:Cyclobacteriaceae(1.00),g:Marinoscillum(0.99),s:uncultured organism(0.25)	2
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(0.99),c:Gammaproteobacteria(0.99),o:Burkholderiales(0.99),f:Comamonadaceae(0.99),g:Comamonas(0.78),s:uncultured bacterium(0.83)	2
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Methylophilaceae(1.00),g:Methylotenera(1.00),s:uncultured bacterium(0.98)	2
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(0.99),f:Marinifilaceae(0.88),g:Odoribacter(0.88),s:Odoribacter splanchnicus(0.08)	1
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Poseidonibacter(0.52),s:uncultured bacterium(0.61)	1
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Cyanobacteria(1.00),c:Vampirivibrionia(1.00),o:Gastranaerophilales(1.00),f:uncultured bacterium(0.83)	1
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(1.00),f:uncultured bacterium(1.00)	1
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(0.99),c:Gammaproteobacteria(0.99),o:Nitrosococcales(0.93),f:Methylophagaceae(0.93),g:Methylophaga(0.93),s:uncultured bacterium(0.92)	1
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Alphaproteobacteria(1.00),o:Caulobacterales(1.00),f:Hyphomonadaceae(1.00),g:Hyphomonas(0.98),s:Hyphomonas sp. VSW312(0.98)	1
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Alphaproteobacteria(1.00),o:Thalassobaculales(1.00),f:Thalassobaculaceae(1.00),g:Thalassobaculum(1.00),s:bacterium DG949(1.00)	1
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Nitrosococcales(0.73),f:Methylophagaceae(0.73),g:Methylophaga(0.60),s:uncultured bacterium(0.81)	1
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(0.98),f:Halieaceae(0.79),g:Halioglobus(0.56),s:uncultured bacterium(0.61)	1
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Marinobacteraceae(1.00),g:Marinobacter(1.00),s:uncultured gamma proteobacterium(0.48)	1
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:OM182 clade(1.00),g:uncultured gamma proteobacterium(0.74)	1
+RhodoM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Spongiibacteraceae(1.00),g:Litorivivens(1.00),s:Litorivivens aequoris(1.00)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Pseudarcobacter(1.00),s:Arcobacter cibarius(0.12)	518
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(1.00),g:uncultured(0.98),s:uncultured bacterium(1.00)	294
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Poseidonibacter(0.52),s:uncultured bacterium(0.61)	235
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Moraxellaceae(1.00),g:Acinetobacter(1.00),s:uncultured Acinetobacter sp.(0.84)	93
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(0.99),g:uncultured(0.58),s:uncultured bacterium(0.99)	57
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Weeksellaceae(1.00),g:Empedobacter(1.00),s:Empedobacter brevis(1.00)	37
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Agathobacter(0.71),s:uncultured bacterium(1.00)	36
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Fusobacteriota(1.00),c:Fusobacteriia(1.00),o:Fusobacteriales(1.00),f:Leptotrichiaceae(1.00),g:Hypnocyclicus(1.00),s:uncultured Fusobacteria bacterium(1.00)	36
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnospiraceae NK4A136 group(0.67),s:uncultured bacterium(1.00)	28
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:Erysipelotrichales(1.00),f:Erysipelatoclostridiaceae(1.00),g:Asteroleplasma(1.00),s:metagenome(1.00)	22
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(1.00),f:uncultured bacterium(1.00)	18
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:uncultured bacterium(0.83)	17
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(1.00),g:uncultured(0.99),s:uncultured bacterium(1.00)	13
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Fusobacteriota(1.00),c:Fusobacteriia(1.00),o:Fusobacteriales(1.00),f:Leptotrichiaceae(1.00),g:Sebaldella(1.00),s:Sebaldella termitidis ATCC 33386(0.75)	13
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Lutibacter(1.00),s:Lutibacter maritimus(0.67)	12
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnoclostridium(0.92),s:uncultured bacterium(0.97)	12
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Comamonadaceae(1.00),g:Polaromonas(0.79),s:Polaromonas vacuolata(0.35)	12
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:RF39(1.00),f:uncultured bacterium(1.00)	11
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnospiraceae NK4A136 group(0.95),s:uncultured bacterium(1.00)	11
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(1.00),g:Paludibacter(1.00),s:uncultured bacterium(0.93)	10
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Sulfurospirillaceae(1.00),g:Sulfurospirillum(1.00),s:Sulfurospirillum arsenophilum(0.52)	10
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(1.00),f:uncultured rumen bacterium(0.03)	10
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(1.00),g:uncultured(0.98),s:uncultured bacterium(0.70)	10
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(0.98),g:Propionivibrio(0.98),s:uncultured bacterium(0.33)	9
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(0.98),f:Lachnospiraceae(0.98),g:Roseburia(0.25),s:uncultured bacterium(0.94)	8
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:[Eubacterium] eligens group(0.61),s:uncultured bacterium(1.00)	8
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(0.87),f:Weeksellaceae(0.80),g:Empedobacter(0.78),s:Empedobacter brevis(0.78)	7
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Flavobacterium(1.00),s:Flavobacterium sp. EP333(0.30)	7
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bdellovibrionota(1.00),c:Bdellovibrionia(1.00),o:Bacteriovoracales(1.00),f:Bacteriovoracaceae(1.00),g:Bacteriovorax(0.90),s:uncultured bacterium(0.50)	6
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:uncultured(0.90),s:uncultured bacterium(0.68)	6
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia vadinBB60 group(1.00),f:uncultured bacterium(1.00)	6
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(0.99),f:Paludibacteraceae(0.99),g:uncultured(0.95),s:uncultured bacterium(0.98)	5
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Tannerellaceae(0.99),g:Macellibacteroides(0.99),s:uncultured bacterium(0.99)	5
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Acidobacteriota(1.00),c:Holophagae(1.00),o:Holophagales(1.00),f:Holophagaceae(1.00),g:uncultured Acidobacteriaceae bacterium(0.28)	4
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(1.00),g:uncultured(1.00),s:marine metagenome(0.98)	4
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Patescibacteria(1.00),c:Gracilibacteria(1.00),o:uncultured bacterium(1.00)	4
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:T34(0.99),g:uncultured bacterium(0.92)	4
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Spirochaetota(1.00),c:MVP-15(1.00),o:uncultured bacterium(1.00)	4
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(0.98),f:Paludibacteraceae(0.98),g:uncultured(0.98),s:uncultured bacterium(0.98)	3
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(0.86),g:uncultured(0.80),s:uncultured bacterium(0.95)	3
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(0.96),g:uncultured(0.91),s:uncultured bacterium(0.95)	3
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnospira(1.00),s:uncultured bacterium(1.00)	3
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:Faecalibacterium(1.00),s:uncultured bacterium(1.00)	3
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:uncultured(1.00),s:uncultured bacterium(1.00)	3
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Patescibacteria(1.00),c:Saccharimonadia(1.00),o:Saccharimonadales(1.00),f:uncultured bacterium(1.00)	3
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(0.92),c:Bacteroidia(0.92),o:Bacteroidales(0.92),f:Paludibacteraceae(0.92),g:uncultured(0.86),s:uncultured bacterium(0.93)	2
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(0.99),c:Bacteroidia(0.99),o:Bacteroidales(0.99),f:Bacteroidaceae(0.82),g:Bacteroides(0.82),s:uncultured organism(0.27)	2
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(0.83),g:uncultured(0.60),s:uncultured bacterium(0.93)	2
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Tannerellaceae(1.00),g:Parabacteroides(1.00),s:Parabacteroides merdae(1.00)	2
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Chitinophagales(0.98),f:uncultured(0.98),g:uncultured bacterium(0.75)	2
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Weeksellaceae(1.00),g:Cloacibacterium(1.00),s:Cloacibacterium sp. R091(0.89)	2
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(0.98),c:Campylobacteria(0.98),o:Campylobacterales(0.98),f:Arcobacteraceae(0.98),g:Pseudarcobacter(0.97),s:Arcobacter cibarius(0.24)	2
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:UCG-010(1.00),g:uncultured bacterium(0.72)	2
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Fusobacteriota(1.00),c:Fusobacteriia(1.00),o:Fusobacteriales(1.00),f:Leptotrichiaceae(1.00),g:Leptotrichia(1.00),s:uncultured bacterium(1.00)	2
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Patescibacteria(0.99),c:Gracilibacteria(0.99),o:JGI 0000069-P22(0.95),f:uncultured prokaryote(0.38)	2
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Patescibacteria(1.00),c:Saccharimonadia(1.00),o:Saccharimonadales(1.00),f:uncultured Candidatus Saccharibacteria bacterium(0.36)	2
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.95),c:Gammaproteobacteria(0.95),o:Pseudomonadales(0.94),f:Moraxellaceae(0.94),g:Acinetobacter(0.94),s:uncultured bacterium(0.65)	2
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Enterobacterales(1.00),f:Enterobacteriaceae(0.99),g:Enterobacter(0.78),s:Enterobacter sp.(0.51)	2
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(0.77),c:Bacteroidia(0.77),o:Bacteroidales(0.77),f:Paludibacteraceae(0.66),g:uncultured(0.66),s:uncultured bacterium(0.90)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(0.95),c:Bacteroidia(0.95),o:Flavobacteriales(0.77),f:Flavobacteriaceae(0.76),g:uncultured(0.19),s:uncultured bacterium(0.23)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(0.99),c:Bacteroidia(0.99),o:Flavobacteriales(0.99),f:Weeksellaceae(0.99),g:Chryseobacterium(0.99),s:uncultured Bacteroidetes bacterium(0.75)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(0.98),f:Paludibacteraceae(0.95),g:uncultured(0.91),s:metagenome(0.44)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(0.99),f:Paludibacteraceae(0.97),g:uncultured(0.96),s:uncultured bacterium(0.98)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:Bacteroides clarus(0.55)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:Bacteroides luti(0.60)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:uncultured bacterium(0.74)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Chitinophagales(0.86),f:uncultured(0.86),g:bacterium episymbiont of Kiwa sp.(0.58)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Cytophagales(1.00),f:Cyclobacteriaceae(1.00),g:Fabibacter(0.90),s:uncultured bacterium(0.28)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Flavobacterium(1.00),s:Flavobacterium segetis(0.57)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Flavobacterium(1.00),s:uncultured bacterium(0.70)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(0.97),c:Campylobacteria(0.97),o:Campylobacterales(0.97),f:Arcobacteraceae(0.95),g:Pseudarcobacter(0.90),s:uncultured Arcobacter sp.(0.78)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(0.99),c:Campylobacteria(0.99),o:Campylobacterales(0.99),f:Arcobacteraceae(0.99),g:Arcobacter(0.70),s:Arcobacter sp. R-28214(0.63)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(0.99),c:Campylobacteria(0.99),o:Campylobacterales(0.99),f:Arcobacteraceae(0.99),g:Poseidonibacter(0.31),s:uncultured bacterium(0.42)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Pseudarcobacter(0.97),s:Arcobacter cibarius(0.12)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:uncultured(0.92),s:uncultured bacterium(0.70)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Sulfurospirillaceae(0.85),g:Sulfurospirillum(0.85),s:uncultured Epsilonproteobacteria bacterium(0.70)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Desulfobacterota(1.00),c:Desulfobulbia(1.00),o:Desulfobulbales(1.00),f:Desulfobulbaceae(1.00),g:Desulfobulbus(0.99),s:uncultured Desulfobulbus sp.(0.39)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:Erysipelotrichales(1.00),f:Erysipelotrichaceae(1.00),g:uncultured(0.96),s:uncultured bacterium(0.74)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:Lactobacillales(1.00),f:Streptococcaceae(1.00),g:Lactococcus(1.00),s:Lactococcus lactis(0.90)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:RF39(1.00),f:uncultured bacterium(0.72)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:BRH-c20a(1.00),o:uncultured bacterium(0.93)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(0.99),f:uncultured bacterium(0.99)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(1.00),f:uncultured bacterium(0.98)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(0.99),f:Lachnospiraceae(0.99),g:[Eubacterium] ruminantium group(0.16),s:uncultured bacterium(0.87)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnospiraceae NK4A136 group(1.00),s:uncultured bacterium(1.00)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:XBB1006(0.96),s:uncultured bacterium(0.99)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(0.91),f:Oscillospiraceae(0.12),g:NK4A214 group(0.12),s:uncultured bacterium(0.56)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Hungateiclostridiaceae(1.00),g:Ruminiclostridium(1.00),s:uncultured bacterium(1.00)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Patescibacteria(0.98),c:Saccharimonadia(0.98),o:Saccharimonadales(0.98),f:uncultured Candidatus Saccharibacteria bacterium(0.11)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Patescibacteria(1.00),c:Gracilibacteria(1.00),o:JGI 0000069-P22(1.00),f:uncultured bacterium(1.00)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Patescibacteria(1.00),c:Saccharimonadia(1.00),o:Saccharimonadales(1.00),f:uncultured bacterium(0.88)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.59),c:Gammaproteobacteria(0.59),o:Pseudomonadales(0.55),f:Moraxellaceae(0.55),g:Acinetobacter(0.55),s:uncultured Acinetobacter sp.(0.07)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.95),c:Gammaproteobacteria(0.95),o:Pseudomonadales(0.93),f:Moraxellaceae(0.93),g:Acinetobacter(0.93),s:uncultured gamma proteobacterium(0.10)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.95),c:Gammaproteobacteria(0.95),o:Pseudomonadales(0.94),f:Moraxellaceae(0.91),g:Acinetobacter(0.91),s:uncultured bacterium(0.75)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.99),c:Gammaproteobacteria(0.99),o:Burkholderiales(0.99),f:Comamonadaceae(0.99),g:Comamonas(0.78),s:uncultured bacterium(0.83)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Neisseriaceae(1.00),g:uncultured(1.00),s:uncultured bacterium(0.78)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Moraxellaceae(1.00),g:Acinetobacter(1.00),s:Acinetobacter johnsonii CIP 64.6(0.05)	1
+WWM100XDilBC10e5	k:Bacteria(1.00),p:Synergistota(0.02),c:Synergistia(0.02),o:Synergistales(0.02),f:Synergistaceae(0.02),g:Aminivibrio(0.02),s:uncultured bacterium(0.45)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Pseudarcobacter(1.00),s:Arcobacter cibarius(0.12)	404
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:uncultured(0.05),s:uncultured bacterium(0.55)	181
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnospiraceae NK4A136 group(0.67),s:uncultured bacterium(1.00)	176
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Poseidonibacter(0.52),s:uncultured bacterium(0.61)	157
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(0.98),g:Propionivibrio(0.98),s:uncultured bacterium(0.33)	32
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Coprococcus(1.00),s:uncultured bacterium(1.00)	31
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Moraxellaceae(1.00),g:Acinetobacter(1.00),s:uncultured Acinetobacter sp.(0.84)	27
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:uncultured(0.59),s:uncultured Epsilonproteobacteria bacterium(0.41)	15
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(0.99),c:Campylobacteria(0.99),o:Campylobacterales(0.99),f:Arcobacteraceae(0.99),g:uncultured(0.34),s:uncultured Epsilonproteobacteria bacterium(0.13)	13
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(1.00),f:uncultured rumen bacterium(0.03)	13
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(0.99),c:Bacteroidia(0.99),o:Bacteroidales(0.99),f:Bacteroidaceae(0.96),g:Bacteroides(0.96),s:uncultured organism(0.20)	11
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:[Ruminococcus] torques group(0.10),s:uncultured bacterium(1.00)	8
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:Faecalibacterium(1.00),s:uncultured bacterium(1.00)	8
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:uncultured bacterium(0.83)	7
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(0.99),f:Lachnospiraceae(0.99),g:uncultured(0.02),s:uncultured bacterium(0.97)	7
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:[Eubacterium] coprostanoligenes group(1.00),g:uncultured bacterium(1.00)	7
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(0.96),g:Paludibacter(0.95),s:uncultured bacterium(0.95)	6
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Cytophagales(1.00),f:Cyclobacteriaceae(1.00),g:Fabibacter(0.90),s:uncultured bacterium(0.28)	6
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(1.00),g:Paludibacter(1.00),s:uncultured bacterium(0.93)	5
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:uncultured(0.70),s:uncultured bacterium(0.84)	5
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(0.76),c:Campylobacteria(0.76),o:Campylobacterales(0.76),f:Arcobacteraceae(0.76),g:Pseudarcobacter(0.53),s:Arcobacter cibarius(0.02)	4
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(0.92),c:Campylobacteria(0.92),o:Campylobacterales(0.92),f:Arcobacteraceae(0.92),g:uncultured(0.72),s:uncultured bacterium(0.65)	4
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(0.94),f:Lachnospiraceae(0.94),g:[Eubacterium] ruminantium group(0.34),s:uncultured bacterium(0.93)	4
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Patescibacteria(1.00),c:Gracilibacteria(1.00),o:Absconditabacteriales (SR1)(1.00),f:uncultured bacterium(1.00)	4
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Patescibacteria(1.00),c:Saccharimonadia(1.00),o:Saccharimonadales(1.00),f:uncultured bacterium(0.99)	4
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Synergistota(0.02),c:Synergistia(0.02),o:Synergistales(0.02),f:Synergistaceae(0.02),g:Aminivibrio(0.02),s:uncultured bacterium(0.45)	4
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Sulfurospirillaceae(1.00),g:Sulfurospirillum(1.00),s:Sulfurospirillum arsenophilum(0.52)	3
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:Lactobacillales(1.00),f:Streptococcaceae(1.00),g:Streptococcus(1.00),s:unidentified(0.34)	3
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:BRH-c20a(1.00),o:uncultured bacterium(0.93)	3
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(0.95),f:Lachnospiraceae(0.95),g:Lachnospiraceae NK4A136 group(0.79),s:uncultured bacterium(1.00)	3
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(0.96),f:Lachnospiraceae(0.96),g:Fusicatenibacter(0.69),s:uncultured Firmicutes bacterium(0.33)	3
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Oscillospiraceae(1.00),g:NK4A214 group(1.00),s:uncultured bacterium(0.96)	3
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:Ruminococcus(1.00),s:uncultured bacterium(1.00)	3
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Fusobacteriota(1.00),c:Fusobacteriia(1.00),o:Fusobacteriales(1.00),f:Leptotrichiaceae(1.00),g:Hypnocyclicus(1.00),s:uncultured Fusobacteria bacterium(1.00)	3
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(0.89),g:Propionivibrio(0.88),s:uncultured soil bacterium(0.40)	3
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Prevotellaceae(1.00),g:Prevotella_9(1.00),s:uncultured bacterium(0.69)	2
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Tannerellaceae(0.99),g:Macellibacteroides(0.99),s:uncultured bacterium(0.99)	2
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Sphingobacteriales(1.00),f:NS11-12 marine group(1.00),g:uncultured bacterium(0.99)	2
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(0.96),c:Campylobacteria(0.96),o:Campylobacterales(0.96),f:Arcobacteraceae(0.96),g:uncultured(0.71),s:uncultured bacterium(0.77)	2
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(0.92),c:Clostridia(0.90),o:Lachnospirales(0.81),f:Lachnospiraceae(0.81),g:Lachnospiraceae UCG-008(0.02),s:uncultured bacterium(0.85)	2
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:[Eubacterium] eligens group(0.61),s:uncultured bacterium(1.00)	2
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Fusobacteriota(1.00),c:Fusobacteriia(1.00),o:Fusobacteriales(1.00),f:Leptotrichiaceae(1.00),g:Leptotrichia(1.00),s:uncultured bacterium(1.00)	2
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(0.98),c:Gammaproteobacteria(0.98),o:Burkholderiales(0.97),f:Rhodocyclaceae(0.84),g:Propionivibrio(0.77),s:uncultured soil bacterium(0.32)	2
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(0.60),c:Kapabacteria(0.60),o:Kapabacteriales(0.60),f:uncultured bacterium(0.57)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(0.99),c:Kapabacteria(0.99),o:Kapabacteriales(0.99),f:uncultured bacterium(0.87)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:Bacteroides clarus(0.55)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Flavobacterium(1.00),s:Flavobacterium sp. EP333(0.30)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(0.62),c:Campylobacteria(0.62),o:Campylobacterales(0.62),f:Arcobacteraceae(0.61),g:uncultured(0.56),s:uncultured bacterium(0.39)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(0.85),c:Campylobacteria(0.85),o:Campylobacterales(0.85),f:Arcobacteraceae(0.84),g:uncultured(0.74),s:uncultured bacterium(0.86)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(0.85),c:Campylobacteria(0.85),o:Campylobacterales(0.85),f:Arcobacteraceae(0.85),g:Arcobacter(0.50),s:uncultured bacterium(0.84)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(0.57),g:Pseudarcobacter(0.51),s:uncultured Arcobacter sp.(0.20)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Sulfurospirillaceae(0.85),g:Sulfurospirillum(0.85),s:uncultured Epsilonproteobacteria bacterium(0.70)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(0.50),c:Clostridia(0.50),o:Lachnospirales(0.44),f:Lachnospiraceae(0.44),g:Coprococcus(0.37),s:uncultured bacterium(0.93)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(0.51),c:Clostridia(0.51),o:Lachnospirales(0.50),f:Lachnospiraceae(0.50),g:Lachnospiraceae NK4A136 group(0.40),s:uncultured bacterium(0.64)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(0.82),c:Clostridia(0.79),o:Lachnospirales(0.69),f:Lachnospiraceae(0.68),g:Lachnospiraceae NK4A136 group(0.52),s:uncultured bacterium(0.81)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(0.89),c:Clostridia(0.89),o:Lachnospirales(0.86),f:Lachnospiraceae(0.86),g:Lachnospiraceae NK4A136 group(0.77),s:uncultured bacterium(0.85)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(0.97),c:Clostridia(0.97),o:Lachnospirales(0.91),f:Lachnospiraceae(0.91),g:Lachnospiraceae NK4A136 group(0.71),s:uncultured bacterium(0.84)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(0.99),c:Clostridia(0.99),o:Lachnospirales(0.97),f:Lachnospiraceae(0.97),g:Lachnospiraceae NK4A136 group(0.71),s:uncultured organism(0.22)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(0.99),c:Clostridia(0.99),o:Lachnospirales(0.99),f:Lachnospiraceae(0.99),g:uncultured(0.65),s:uncultured bacterium(1.00)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(0.99),o:RF39(0.99),f:uncultured bacterium(0.96)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:Lactobacillales(1.00),f:Streptococcaceae(1.00),g:Lactococcus(1.00),s:Lactococcus lactis(0.90)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(0.89),f:uncultured Firmicutes bacterium(0.89)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia vadinBB60 group(1.00),f:uncultured bacterium(1.00)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:[Eubacterium] ruminantium group(1.00),s:uncultured bacterium(1.00)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Agathobacter(0.71),s:uncultured bacterium(1.00)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnospiraceae NK4A136 group(0.95),s:uncultured bacterium(1.00)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(0.71),f:Oscillospiraceae(0.70),g:UCG-005(0.62),s:uncultured bacterium(0.96)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(0.86),c:Gammaproteobacteria(0.86),o:Burkholderiales(0.79),f:Rhodocyclaceae(0.69),g:Propionivibrio(0.68),s:uncultured soil bacterium(0.41)	1
+WWM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(0.99),c:Gammaproteobacteria(0.99),o:Burkholderiales(0.99),f:Comamonadaceae(0.99),g:Comamonas(0.78),s:uncultured bacterium(0.83)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Pseudarcobacter(1.00),s:Arcobacter cibarius(0.12)	41
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:uncultured bacterium(0.83)	20
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(1.00),g:Paludibacter(1.00),s:uncultured Bacteroidetes bacterium(1.00)	17
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(0.98),g:Propionivibrio(0.98),s:uncultured bacterium(0.33)	12
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Poseidonibacter(0.52),s:uncultured bacterium(0.61)	8
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(1.00),g:Paludibacter(1.00),s:uncultured bacterium(0.93)	5
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:uncultured(0.05),s:uncultured bacterium(0.55)	5
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Weeksellaceae(1.00),g:Chryseobacterium(1.00),s:Chryseobacterium proteolyticum(0.32)	2
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Sulfurospirillaceae(1.00),g:Sulfurospirillum(1.00),s:Sulfurospirillum arsenophilum(0.52)	2
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia vadinBB60 group(1.00),f:uncultured bacterium(1.00)	2
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:Faecalibacterium(1.00),s:uncultured bacterium(1.00)	2
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Fusobacteriota(1.00),c:Fusobacteriia(1.00),o:Fusobacteriales(1.00),f:Leptotrichiaceae(1.00),g:Leptotrichia(1.00),s:uncultured bacterium(1.00)	2
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Moraxellaceae(1.00),g:Acinetobacter(1.00),s:uncultured Acinetobacter sp.(0.84)	2
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(0.99),c:Bacteroidia(0.99),o:Bacteroidales(0.99),f:Bacteroidaceae(0.82),g:Bacteroides(0.82),s:uncultured organism(0.27)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:uncultured bacterium(1.00)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Marinilabiliaceae(1.00),g:[Cytophaga] xylanolytica group(1.00),s:uncultured prokaryote(0.27)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Weeksellaceae(1.00),g:Chryseobacterium(0.96),s:uncultured bacterium(0.83)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(0.57),g:Pseudarcobacter(0.51),s:uncultured Arcobacter sp.(0.20)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Cyanobacteria(1.00),c:Cyanobacteriia(1.00),o:Chloroplast(1.00),f:Rhodomonas salina(0.88)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(0.99),o:Lactobacillales(0.98),f:Carnobacteriaceae(0.96),g:Alloiococcus(0.94),s:uncultured bacterium(0.96)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:Staphylococcales(1.00),f:Staphylococcaceae(1.00),g:Staphylococcus(1.00),s:Staphylococcus sp. ECH3(0.34)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:BRH-c20a(1.00),o:uncultured bacterium(0.93)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(0.47),f:Lachnospiraceae(0.47),g:Lachnospiraceae UCG-008(0.28),s:uncultured bacterium(1.00)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(0.91),f:Oscillospiraceae(0.12),g:NK4A214 group(0.12),s:uncultured bacterium(0.56)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:[Eubacterium] siraeum group(1.00),s:uncultured bacterium adhufec81(1.00)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Peptostreptococcales-Tissierellales(1.00),f:Acidaminobacteraceae(1.00),g:Acidaminobacter(1.00),s:uncultured bacterium(1.00)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Fusobacteriota(1.00),c:Fusobacteriia(1.00),o:Fusobacteriales(1.00),f:Fusobacteriaceae(1.00),g:Fusobacterium(1.00),s:uncultured bacterium(0.97)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Fusobacteriota(1.00),c:Fusobacteriia(1.00),o:Fusobacteriales(1.00),f:Leptotrichiaceae(1.00),g:Hypnocyclicus(1.00),s:uncultured Fusobacteria bacterium(1.00)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.99),c:Gammaproteobacteria(0.99),o:Burkholderiales(0.99),f:Comamonadaceae(0.99),g:Comamonas(0.78),s:uncultured bacterium(0.83)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Burkholderiaceae(0.53),g:Ralstonia(0.53),s:uncultured beta proteobacterium(0.53)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Leeiaceae(0.37),g:Leeia(0.37),s:uncultured bacterium(0.41)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Sutterellaceae(1.00),g:Sutterella(1.00),s:uncultured bacterium(0.26)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Enterobacterales(1.00),f:Aeromonadaceae(1.00),g:Aeromonas(1.00),s:Aeromonas sp. 08006(0.80)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Synergistota(0.02),c:Synergistia(0.02),o:Synergistales(0.02),f:Synergistaceae(0.02),g:Aminivibrio(0.02),s:uncultured bacterium(0.45)	1
+WWM10XDilBC10e5	k:Bacteria(1.00),p:Verrucomicrobiota(1.00),c:Omnitrophia(1.00),o:Omnitrophales(1.00),f:Omnitrophaceae(1.00),g:Candidatus Omnitrophus(1.00),s:uncultured bacterium(0.77)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Pseudarcobacter(1.00),s:Arcobacter cibarius(0.12)	293
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:uncultured(0.05),s:uncultured bacterium(0.55)	122
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Poseidonibacter(0.52),s:uncultured bacterium(0.61)	78
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Oxalobacteraceae(1.00),g:Undibacterium(1.00),s:beta proteobacterium HTCC525(0.94)	66
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(1.00),f:uncultured bacterium(1.00)	32
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:Faecalibacterium(1.00),s:uncultured bacterium(1.00)	18
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Synergistota(0.02),c:Synergistia(0.02),o:Synergistales(0.02),f:Synergistaceae(0.02),g:Aminivibrio(0.02),s:uncultured bacterium(0.45)	14
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Fusobacteriota(1.00),c:Fusobacteriia(1.00),o:Fusobacteriales(1.00),f:Leptotrichiaceae(1.00),g:Hypnocyclicus(1.00),s:uncultured Fusobacteria bacterium(1.00)	11
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Moraxellaceae(1.00),g:Acinetobacter(1.00),s:uncultured Acinetobacter sp.(0.84)	10
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia vadinBB60 group(1.00),f:uncultured bacterium(1.00)	8
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:Bacteroides clarus(0.55)	7
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Negativicutes(1.00),o:Veillonellales-Selenomonadales(1.00),f:Sporomusaceae(1.00),g:Pelosinus(1.00),s:uncultured bacterium(1.00)	6
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Patescibacteria(0.99),c:Gracilibacteria(0.99),o:JGI 0000069-P22(0.95),f:uncultured prokaryote(0.38)	6
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Flavobacterium(1.00),s:Flavobacterium sp. EP333(0.30)	5
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Lutibacter(1.00),s:Lutibacter maritimus(0.67)	5
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Sulfurospirillaceae(1.00),g:Sulfurospirillum(1.00),s:Sulfurospirillum arsenophilum(0.52)	4
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Blautia(1.00),s:uncultured bacterium(1.00)	4
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(1.00),g:Paludibacter(1.00),s:uncultured bacterium(0.93)	3
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnospiraceae NK4A136 group(0.67),s:uncultured bacterium(1.00)	3
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Pseudomonadaceae(1.00),g:Pseudomonas(1.00),s:Pseudomonas sp.(0.03)	3
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(0.99),c:Campylobacteria(0.99),o:Campylobacterales(0.99),f:Arcobacteraceae(0.99),g:uncultured(0.34),s:uncultured Epsilonproteobacteria bacterium(0.13)	2
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:uncultured(0.59),s:uncultured Epsilonproteobacteria bacterium(0.41)	2
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:uncultured(0.70),s:uncultured bacterium(0.84)	2
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(1.00),f:uncultured rumen bacterium(0.03)	2
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:Ruminococcus(1.00),s:uncultured bacterium(1.00)	2
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Negativicutes(1.00),o:Veillonellales-Selenomonadales(1.00),f:Veillonellaceae(1.00),g:Veillonella(1.00),s:Veillonella sp. S101(0.92)	2
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(0.98),g:Propionivibrio(0.98),s:uncultured bacterium(0.33)	2
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(0.99),c:Bacteroidia(0.99),o:Bacteroidales(0.99),f:Bacteroidaceae(0.96),g:Bacteroides(0.96),s:uncultured organism(0.20)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:uncultured bacterium(1.00)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Flavobacterium(1.00),s:uncultured prokaryote(0.99)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(0.61),c:Campylobacteria(0.61),o:Campylobacterales(0.61),f:Arcobacteraceae(0.60),g:uncultured(0.32),s:oilfield bacterium 'FWKO B'(0.01)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(0.99),c:Clostridia(0.99),o:Oscillospirales(0.99),f:Ruminococcaceae(0.94),g:Faecalibacterium(0.93),s:uncultured bacterium(0.90)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:[Eubacterium] eligens group(0.61),s:uncultured bacterium(1.00)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnospira(1.00),s:uncultured bacterium(1.00)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(0.99),g:Ruminococcus(0.99),s:uncultured bacterium(0.99)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Peptostreptococcales-Tissierellales(1.00),f:Acidaminobacteraceae(1.00),g:Acidaminobacter(1.00),s:uncultured bacterium(0.87)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Peptostreptococcales-Tissierellales(1.00),f:Anaerovoracaceae(1.00),g:[Eubacterium] nodatum group(0.19),s:uncultured bacterium(0.82)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Negativicutes(1.00),o:Veillonellales-Selenomonadales(1.00),f:Veillonellaceae(1.00),g:Dialister(1.00),s:uncultured bacterium(1.00)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(0.86),c:Gammaproteobacteria(0.86),o:Burkholderiales(0.79),f:Rhodocyclaceae(0.69),g:Propionivibrio(0.68),s:uncultured soil bacterium(0.41)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(0.91),c:Gammaproteobacteria(0.91),o:Burkholderiales(0.89),f:Oxalobacteraceae(0.85),g:Undibacterium(0.83),s:beta proteobacterium HTCC525(0.52)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Chitinibacteraceae(0.66),g:Formivibrio(0.33),s:metagenome(0.35)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Comamonadaceae(0.86),g:Limnohabitans(0.29),s:uncultured bacterium(0.51)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Oxalobacteraceae(0.97),g:Undibacterium(0.80),s:beta proteobacterium HTCC525(0.53)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(0.99),g:Zoogloea(0.99),s:uncultured Rhodocyclaceae bacterium(0.43)	1
+WWM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Moraxellaceae(1.00),g:Acinetobacter(1.00),s:Acinetobacter johnsonii CIP 64.6(0.05)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Pseudarcobacter(1.00),s:Arcobacter cibarius(0.12)	191
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Synergistota(0.02),c:Synergistia(0.02),o:Synergistales(0.02),f:Synergistaceae(0.02),g:Aminivibrio(0.02),s:uncultured bacterium(0.45)	58
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Peptostreptococcales-Tissierellales(1.00),f:Fusibacteraceae(1.00),g:Fusibacter(1.00),s:uncultured bacterium(0.67)	41
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.99),c:Gammaproteobacteria(0.99),o:Burkholderiales(0.99),f:Comamonadaceae(0.99),g:Comamonas(0.78),s:uncultured bacterium(0.83)	34
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Poseidonibacter(0.52),s:uncultured bacterium(0.61)	26
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnospiraceae NK4A136 group(0.99),s:uncultured bacterium(1.00)	25
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Fusobacteriota(1.00),c:Fusobacteriia(1.00),o:Fusobacteriales(1.00),f:Leptotrichiaceae(1.00),g:Hypnocyclicus(1.00),s:uncultured Fusobacteria bacterium(1.00)	22
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Moraxellaceae(1.00),g:Acinetobacter(1.00),s:uncultured Acinetobacter sp.(0.84)	22
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(1.00),g:Paludibacter(1.00),s:uncultured bacterium(0.93)	21
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Flavobacterium(1.00),s:Flavobacterium sp. EP333(0.30)	19
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(1.00),f:uncultured bacterium(1.00)	19
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Comamonadaceae(1.00),g:Polaromonas(0.79),s:Polaromonas vacuolata(0.35)	18
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:uncultured(0.05),s:uncultured bacterium(0.55)	16
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(1.00),f:uncultured rumen bacterium(0.03)	15
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Oscillospiraceae(1.00),g:UCG-005(0.01),s:uncultured bacterium(1.00)	14
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:FTLpost3(1.00),g:uncultured bacterium(0.75)	11
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Agathobacter(0.71),s:uncultured bacterium(1.00)	11
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(0.98),g:Propionivibrio(0.98),s:uncultured bacterium(0.33)	10
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia vadinBB60 group(1.00),f:uncultured bacterium(1.00)	9
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Fusobacteriota(1.00),c:Fusobacteriia(1.00),o:Fusobacteriales(1.00),f:Leptotrichiaceae(1.00),g:Leptotrichia(1.00),s:uncultured bacterium(1.00)	9
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(0.99),g:Zoogloea(0.99),s:uncultured Rhodocyclaceae bacterium(0.43)	9
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(1.00),g:uncultured(0.98),s:uncultured bacterium(0.70)	9
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(0.99),c:Bacteroidia(0.99),o:Bacteroidales(0.99),f:Bacteroidaceae(0.96),g:Bacteroides(0.96),s:uncultured organism(0.20)	8
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(0.96),g:Paludibacter(0.95),s:uncultured bacterium(0.95)	8
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Cryomorphaceae(1.00),g:Owenweeksia(1.00),s:uncultured Owenweeksia sp.(0.64)	8
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Peptostreptococcales-Tissierellales(1.00),f:Peptostreptococcaceae(1.00),g:Proteocatella(1.00),s:uncultured Clostridiales bacterium(0.91)	8
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Tannerellaceae(0.99),g:Macellibacteroides(0.99),s:uncultured bacterium(0.99)	7
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(0.71),f:Oscillospiraceae(0.70),g:UCG-005(0.62),s:uncultured bacterium(0.96)	7
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Oscillospiraceae(1.00),g:UCG-005(1.00),s:uncultured bacterium(1.00)	7
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Enterobacterales(1.00),f:Kangiellaceae(1.00),g:Pleionea(1.00),s:gamma proteobacterium GMD38C3(1.00)	7
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Rhodothermia(1.00),o:Balneolales(1.00),f:Balneolaceae(1.00),g:Balneola(1.00),s:uncultured bacterium(1.00)	6
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:Bacteroides clarus(0.55)	5
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Marinilabiliaceae(1.00),g:[Cytophaga] xylanolytica group(1.00),s:uncultured prokaryote(0.27)	5
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Halieaceae(1.00),g:Pseudohaliea(0.08),s:uncultured organism(0.04)	5
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:uncultured bacterium(1.00)	4
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Oscillospiraceae(1.00),g:UCG-002(0.99),s:uncultured bacterium(1.00)	4
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Peptostreptococcales-Tissierellales(1.00),f:Family XI(1.00),g:uncultured(0.23),s:uncultured bacterium(0.79)	4
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Leeiaceae(0.37),g:Leeia(0.37),s:uncultured bacterium(0.41)	4
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(0.97),g:Candidatus Accumulibacter(0.91),s:uncultured bacterium(0.82)	4
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Pseudomonadaceae(1.00),g:Pseudomonas(1.00),s:Pseudomonas sp.(0.03)	4
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Chitinophagales(1.00),f:Saprospiraceae(1.00),g:OLB8(1.00),s:uncultured bacterium(1.00)	3
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Sulfurospirillaceae(1.00),g:Sulfurospirillum(1.00),s:Sulfurospirillum arsenophilum(0.52)	3
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(0.83),o:Erysipelotrichales(0.83),f:Erysipelotrichaceae(0.83),g:Erysipelothrix(0.83),s:uncultured anaerobic bacterium(0.71)	3
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Planctomycetota(1.00),c:Phycisphaerae(1.00),o:Phycisphaerales(1.00),f:Phycisphaeraceae(1.00),g:SM1A02(1.00),s:uncultured bacterium(0.87)	3
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Enterobacterales(1.00),f:Shewanellaceae(1.00),g:Shewanella(1.00),s:Shewanella putrefaciens(0.62)	3
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Prolixibacteraceae(1.00),g:WCHB1-32(1.00),s:uncultured bacterium(1.00)	2
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Rikenellaceae(1.00),g:Alistipes(1.00),s:uncultured bacterium(0.76)	2
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Cytophagales(1.00),f:Cyclobacteriaceae(1.00),g:Marinoscillum(0.99),s:uncultured organism(0.25)	2
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Flavobacterium(1.00),s:Flavobacterium segetis(0.57)	2
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Flavobacterium(1.00),s:uncultured prokaryote(0.99)	2
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:Staphylococcales(1.00),f:Staphylococcaceae(1.00),g:Staphylococcus(1.00),s:Staphylococcus sp. ECH3(0.34)	2
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(0.99),g:Ruminococcus(0.99),s:uncultured bacterium(0.99)	2
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.88),c:Alphaproteobacteria(0.88),o:Micavibrionales(0.85),f:uncultured(0.76),g:metagenome(0.23)	2
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Alphaproteobacteria(1.00),o:Micavibrionales(1.00),f:uncultured(1.00),g:uncultured bacterium(1.00)	2
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Neisseriaceae(1.00),g:Vitreoscilla(0.99),s:uncultured bacterium(0.98)	2
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:T34(0.99),g:uncultured bacterium(0.92)	2
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Salinisphaerales(1.00),f:Salinisphaeraceae(1.00),g:Salinisphaera(1.00),s:uncultured bacterium(1.00)	2
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Verrucomicrobiota(1.00),c:Verrucomicrobiae(1.00),o:Opitutales(1.00),f:Opitutaceae(1.00),g:Lacunisphaera(0.95),s:mine drainage metagenome(0.24)	2
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(0.98),c:Bacteroidia(0.96),o:Bacteroidales(0.96),f:Bacteroidaceae(0.71),g:Bacteroides(0.71),s:uncultured bacterium(0.89)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(0.73),f:Paludibacteraceae(0.36),g:Paludibacter(0.36),s:uncultured Bacteroidetes bacterium(0.17)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:Bacteroides luti(0.60)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:uncultured bacterium(0.89)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:FTLpost3(0.87),g:uncultured Bacteroidetes bacterium(0.44)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Marinilabiliaceae(1.00),g:[Cytophaga] xylanolytica group(1.00),s:uncultured bacterium(0.99)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(0.98),g:uncultured(0.39),s:metagenome(0.30)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(1.00),g:uncultured(1.00),s:marine metagenome(0.98)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Prevotellaceae(1.00),g:Prevotella(1.00),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Tannerellaceae(0.71),g:Macellibacteroides(0.70),s:uncultured bacterium(0.82)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Cytophagales(1.00),f:Cyclobacteriaceae(1.00),g:Fabibacter(0.90),s:uncultured bacterium(0.28)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Flavobacterium(1.00),s:uncultured bacterium(0.89)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(0.92),c:Campylobacteria(0.92),o:Campylobacterales(0.92),f:Arcobacteraceae(0.92),g:uncultured(0.72),s:uncultured bacterium(0.65)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:uncultured(0.92),s:uncultured bacterium(0.70)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Desulfobacterota(0.33),c:Desulfobulbia(0.24),o:Desulfobulbales(0.24),f:Desulfocapsaceae(0.21),g:[Desulfobacterium] catecholicum group(0.13),s:uncultured bacterium(0.60)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Desulfobacterota(1.00),c:Desulfovibrionia(1.00),o:Desulfovibrionales(1.00),f:Desulfomicrobiaceae(1.00),g:Desulfomicrobium(1.00),s:Desulfomicrobium sp. 63(0.10)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(0.85),c:Clostridia(0.85),o:Clostridia UCG-014(0.84),f:uncultured bacterium(0.84)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(0.92),c:Clostridia(0.92),o:Clostridia UCG-014(0.89),f:uncultured bacterium(0.88)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(0.98),c:Clostridia(0.98),o:Clostridia UCG-014(0.98),f:uncultured bacterium(0.98)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(0.95),o:Lactobacillales(0.92),f:Streptococcaceae(0.88),g:Lactococcus(0.63),s:Lactococcus laudensis(0.06)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:Lactobacillales(1.00),f:Streptococcaceae(1.00),g:Lactococcus(1.00),s:Lactococcus lactis(0.90)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:RF39(1.00),f:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(0.80),f:Lachnospiraceae(0.80),g:Epulopiscium(0.80),s:uncultured organism(0.42)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:[Eubacterium] oxidoreducens group(0.03),s:uncultured bacterium(0.68)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Coprococcus(1.00),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnospiraceae NK4A136 group(0.67),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnospiraceae UCG-001(0.98),s:uncultured bacterium(0.99)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:uncultured(1.00),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(0.91),f:Oscillospiraceae(0.12),g:NK4A214 group(0.12),s:uncultured bacterium(0.56)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:[Eubacterium] coprostanoligenes group(1.00),g:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Oscillospiraceae(1.00),g:UCG-003(1.00),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:Candidatus Soleaferrea(1.00),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:Faecalibacterium(1.00),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Fusobacteriota(1.00),c:Fusobacteriia(1.00),o:Fusobacteriales(1.00),f:Leptotrichiaceae(1.00),g:Sebaldella(1.00),s:Sebaldella termitidis ATCC 33386(0.75)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Patescibacteria(1.00),c:Saccharimonadia(1.00),o:Saccharimonadales(1.00),f:Saccharimonadaceae(0.70),g:TM7a(0.50),s:uncultured bacterium(0.67)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.11),c:Alphaproteobacteria(0.11),o:Rhizobiales(0.11),f:Xanthobacteraceae(0.11),g:Nitrobacter(0.11),s:uncultured Nitrobacter sp.(0.11)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.59),c:Gammaproteobacteria(0.59),o:Pseudomonadales(0.55),f:Moraxellaceae(0.55),g:Acinetobacter(0.55),s:uncultured Acinetobacter sp.(0.04)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.96),c:Gammaproteobacteria(0.96),o:Burkholderiales(0.96),f:Burkholderiaceae(0.01),g:Polynucleobacter(0.01),s:uncultured beta proteobacterium(0.02)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.97),c:Gammaproteobacteria(0.97),o:Pseudomonadales(0.93),f:Pseudomonadaceae(0.93),g:Pseudomonas(0.93),s:Agrobacterium agile(0.26)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(0.99),c:Gammaproteobacteria(0.99),o:Burkholderiales(0.98),f:Comamonadaceae(0.94),g:Acidovorax(0.54),s:uncultured bacterium(0.39)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Alphaproteobacteria(1.00),o:Caulobacterales(1.00),f:Hyphomonadaceae(1.00),g:Hyphomonas(0.98),s:Hyphomonas sp. VSW312(0.98)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Alphaproteobacteria(1.00),o:Rhodobacterales(1.00),f:Rhodobacteraceae(1.00),g:uncultured bacterium(0.07)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Burkholderiaceae(0.99),g:Limnobacter(0.99),s:uncultured organism(0.84)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Chitinibacteraceae(1.00),g:Formivibrio(1.00),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Comamonadaceae(0.86),g:Limnohabitans(0.29),s:uncultured bacterium(0.51)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Comamonadaceae(0.88),g:Acidovorax(0.58),s:uncultured Acidovorax sp.(0.06)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Comamonadaceae(1.00),g:Comamonas(0.54),s:uncultured bacterium(0.54)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Comamonadaceae(1.00),g:Hydrogenophaga(0.97),s:uncultured bacterium(0.97)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Comamonadaceae(1.00),g:uncultured(0.21),s:uncultured bacterium(0.42)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Methylophilaceae(1.00),g:Methylotenera(1.00),s:uncultured bacterium(0.98)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Neisseriaceae(1.00),g:uncultured(1.00),s:uncultured bacterium(0.78)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Oxalobacteraceae(1.00),g:Undibacterium(1.00),s:beta proteobacterium HTCC525(0.94)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Enterobacterales(1.00),f:Aeromonadaceae(1.00),g:Aeromonas(1.00),s:Aeromonas sp. 08006(0.80)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Enterobacterales(1.00),f:Enterobacteriaceae(0.99),g:Enterobacter(0.78),s:Enterobacter sp.(0.51)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(0.91),f:Moraxellaceae(0.91),g:Acinetobacter(0.91),s:uncultured bacterium(0.69)	1
+WWRhodoM100XDilBC10e5	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Saccharospirillaceae(1.00),g:Saccharospirillum(1.00),s:Saccharospirillum sp. XCD-X5(1.00)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Pseudarcobacter(1.00),s:Arcobacter cibarius(0.12)	123
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Poseidonibacter(0.52),s:uncultured bacterium(0.61)	33
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Alphaproteobacteria(1.00),o:Caulobacterales(1.00),f:Hyphomonadaceae(1.00),g:Hyphomonas(0.98),s:Hyphomonas sp. VSW312(0.98)	18
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:uncultured(0.05),s:uncultured bacterium(0.55)	17
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(1.00),g:Paludibacter(1.00),s:uncultured bacterium(0.93)	13
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnospiraceae NK4A136 group(0.95),s:uncultured bacterium(1.00)	12
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:uncultured bacterium(0.89)	8
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Moraxellaceae(1.00),g:Acinetobacter(1.00),s:uncultured Acinetobacter sp.(0.84)	7
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Agathobacter(0.71),s:uncultured bacterium(1.00)	6
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:Faecalibacterium(1.00),s:uncultured bacterium(1.00)	6
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Halieaceae(1.00),g:Pseudohaliea(0.08),s:uncultured organism(0.04)	6
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Cytophagales(1.00),f:Cyclobacteriaceae(1.00),g:Fabibacter(0.90),s:uncultured bacterium(0.28)	5
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Flavobacterium(1.00),s:uncultured prokaryote(0.99)	5
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Oscillospiraceae(1.00),g:UCG-002(0.99),s:uncultured bacterium(1.00)	5
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Pseudomonadaceae(1.00),g:Pseudomonas(1.00),s:Pseudomonas sp.(0.03)	5
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:uncultured bacterium(1.00)	4
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Cryomorphaceae(1.00),g:Owenweeksia(1.00),s:uncultured Owenweeksia sp.(0.64)	4
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:RF39(1.00),f:gut metagenome(0.87)	4
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:JTB23(0.13),f:hydrothermal vent metagenome(0.01)	4
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(1.00),f:uncultured bacterium(1.00)	3
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:[Eubacterium] eligens group(0.61),s:uncultured bacterium(1.00)	3
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Fusobacteriota(1.00),c:Fusobacteriia(1.00),o:Fusobacteriales(1.00),f:Leptotrichiaceae(1.00),g:Sebaldella(1.00),s:Sebaldella termitidis ATCC 33386(0.75)	3
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Planctomycetota(1.00),c:Phycisphaerae(1.00),o:Phycisphaerales(1.00),f:Phycisphaeraceae(1.00),g:SM1A02(1.00),s:uncultured bacterium(0.87)	3
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Comamonadaceae(1.00),g:Polaromonas(0.79),s:Polaromonas vacuolata(0.35)	3
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Enterobacterales(1.00),f:Kangiellaceae(1.00),g:Pleionea(1.00),s:gamma proteobacterium GMD38C3(1.00)	3
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Flavobacteriales(1.00),f:Flavobacteriaceae(1.00),g:Flavobacterium(1.00),s:Flavobacterium sp. EP333(0.30)	2
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(1.00),f:uncultured Firmicutes bacterium(0.99)	2
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Coprococcus(1.00),s:uncultured bacterium(1.00)	2
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Marinobacteraceae(1.00),g:Marinobacter(1.00),s:uncultured gamma proteobacterium(0.48)	2
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Bacteroidaceae(1.00),g:Bacteroides(1.00),s:uncultured bacterium(0.83)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Marinifilaceae(1.00),g:Odoribacter(1.00),s:uncultured bacterium(0.52)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Marinilabiliaceae(1.00),g:uncultured(1.00),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Paludibacteraceae(0.99),g:uncultured(0.58),s:uncultured bacterium(0.99)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Bacteroidia(1.00),o:Bacteroidales(1.00),f:Tannerellaceae(0.99),g:Macellibacteroides(0.99),s:uncultured bacterium(0.99)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Bacteroidota(1.00),c:Rhodothermia(1.00),o:Balneolales(1.00),f:Balneolaceae(1.00),g:Balneola(1.00),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Sulfurospirillaceae(0.85),g:Sulfurospirillum(0.85),s:uncultured Epsilonproteobacteria bacterium(0.70)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Sulfurospirillaceae(1.00),g:Sulfurospirillum(1.00),s:Sulfurospirillum arsenophilum(0.52)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Cloacimonadota(1.00),c:Cloacimonadia(1.00),o:Cloacimonadales(1.00),f:GZKB75(0.99),g:uncultured bacterium(0.82)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Cyanobacteria(1.00),c:Vampirivibrionia(1.00),o:Gastranaerophilales(1.00),f:uncultured bacterium(0.83)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(0.83),o:Erysipelotrichales(0.83),f:Erysipelotrichaceae(0.83),g:Erysipelothrix(0.83),s:uncultured anaerobic bacterium(0.71)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Bacilli(1.00),o:Erysipelotrichales(1.00),f:Erysipelatoclostridiaceae(1.00),g:UCG-004(1.00),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Clostridia UCG-014(1.00),f:uncultured rumen bacterium(0.03)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Lachnospirales(1.00),f:Lachnospiraceae(1.00),g:Lachnospiraceae UCG-001(0.98),s:uncultured bacterium(0.99)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Oscillospiraceae(0.77),g:UCG-005(0.76),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Oscillospiraceae(1.00),g:Colidextribacter(0.95),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Oscillospiraceae(1.00),g:UCG-005(1.00),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(0.99),g:Ruminococcus(0.99),s:uncultured bacterium(0.99)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:[Eubacterium] siraeum group(1.00),s:uncultured bacterium adhufec81(1.00)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:[Eubacterium] siraeum group(1.00),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Oscillospirales(1.00),f:Ruminococcaceae(1.00),g:Ruminococcus(1.00),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Clostridia(1.00),o:Peptostreptococcales-Tissierellales(1.00),f:Fusibacteraceae(1.00),g:Fusibacter(1.00),s:uncultured bacterium(0.67)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Firmicutes(1.00),c:Negativicutes(1.00),o:Veillonellales-Selenomonadales(1.00),f:Veillonellaceae(1.00),g:Veillonella(1.00),s:Veillonella sp. S101(0.92)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(0.11),c:Alphaproteobacteria(0.11),o:Rhizobiales(0.11),f:Xanthobacteraceae(0.11),g:Nitrobacter(0.11),s:uncultured Nitrobacter sp.(0.11)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(0.99),c:Gammaproteobacteria(0.99),o:Burkholderiales(0.99),f:Comamonadaceae(0.99),g:Comamonas(0.78),s:uncultured bacterium(0.83)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Alphaproteobacteria(1.00),o:Caulobacterales(1.00),f:Hyphomonadaceae(1.00),g:Hyphomonas(0.98),s:uncultured bacterium(0.46)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Chitinibacteraceae(1.00),g:Formivibrio(1.00),s:uncultured bacterium(1.00)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Leeiaceae(0.37),g:Leeia(0.37),s:uncultured bacterium(0.41)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Methylophilaceae(1.00),g:Methylotenera(1.00),s:uncultured bacterium(0.98)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Oxalobacteraceae(1.00),g:Undibacterium(1.00),s:beta proteobacterium HTCC525(0.94)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(0.98),g:Propionivibrio(0.98),s:uncultured bacterium(0.33)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Burkholderiales(1.00),f:Rhodocyclaceae(0.99),g:Zoogloea(0.99),s:uncultured Rhodocyclaceae bacterium(0.43)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Enterobacterales(1.00),f:Succinivibrionaceae(1.00),g:Succinivibrio(0.99),s:uncultured bacterium(0.68)	1
+WWRhodoM100XDilBC10e6	k:Bacteria(1.00),p:Verrucomicrobiota(1.00),c:Verrucomicrobiae(1.00),o:Opitutales(1.00),f:Opitutaceae(1.00),g:Cephaloticoccus(0.48),s:metagenome(0.08)	1
+WWRhodoM10XDilBC10e5	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:uncultured(0.05),s:uncultured bacterium(0.55)	1
+WWRhodoM10XDilBC10e6	k:Bacteria(1.00),p:Proteobacteria(1.00),c:Gammaproteobacteria(1.00),o:Pseudomonadales(1.00),f:Moraxellaceae(1.00),g:Acinetobacter(1.00),s:uncultured Acinetobacter sp.(0.84)	1

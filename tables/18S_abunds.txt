@@ -1,0 +1,40 @@
+Sample	Taxonomy	Count
+RhodoM100XDilBC10e6	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas sp. CCMP743(1.00)	1
+RhodoM10XDilBC10e5	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas sp. CCMP743(1.00)	188
+RhodoM10XDilBC10e5	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Cryptomonas(1.00),f:Cryptomonas paramecium(0.91)	132
+RhodoM10XDilBC10e5	k:Eukaryota(1.00),p:Cryptophyceae(0.98),c:Cryptomonadales(0.98),o:Cryptomonas(0.98),f:uncultured eukaryote(0.98)	9
+RhodoM10XDilBC10e5	k:Eukaryota(1.00),p:Discoba(1.00),c:Jakobida(1.00),o:uncultured dinoflagellate(1.00)	9
+RhodoM10XDilBC10e5	k:Eukaryota(1.00),p:Archaeplastida(1.00),c:Chloroplastida(1.00),o:Charophyta(1.00),f:Phragmoplastophyta(1.00),g:Streptophyta(1.00),s:Embryophyta(1.00)	3
+RhodoM10XDilBC10e5	k:Eukaryota(1.00),p:Cryptophyceae(0.62),c:Cryptomonadales(0.62),o:Hemiselmis(0.13),f:Hemiselmis rufescens(0.12)	1
+RhodoM10XDilBC10e6	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas sp. CCMP743(1.00)	291
+RhodoM10XDilBC10e6	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Cryptomonas(1.00),f:Cryptomonas paramecium(0.91)	86
+RhodoM10XDilBC10e6	k:Eukaryota(1.00),p:Amorphea(1.00),c:Obazoa(1.00),o:Opisthokonta(1.00),f:Nucletmycea(1.00),g:Fungi(1.00),s:Cryptomycota(1.00)	6
+RhodoM10XDilBC10e6	k:Eukaryota(1.00),p:Archaeplastida(1.00),c:Chloroplastida(1.00),o:Charophyta(1.00),f:Phragmoplastophyta(1.00),g:Streptophyta(1.00),s:Embryophyta(1.00)	1
+RhodoM10XDilBC10e6	k:Eukaryota(1.00),p:Cryptophyceae(0.62),c:Cryptomonadales(0.62),o:Hemiselmis(0.13),f:Hemiselmis rufescens(0.12)	1
+RhodoM10XDilBC10e6	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas marina(0.89)	1
+WWM100XDilBC10e5	k:Eukaryota(1.00),p:Archaeplastida(1.00),c:Chloroplastida(1.00),o:Charophyta(1.00),f:Phragmoplastophyta(1.00),g:Streptophyta(1.00),s:Embryophyta(1.00)	28
+WWM100XDilBC10e5	k:Eukaryota(1.00),p:Discoba(1.00),c:Jakobida(1.00),o:uncultured dinoflagellate(1.00)	27
+WWM100XDilBC10e5	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas sp. CCMP743(1.00)	22
+WWM100XDilBC10e5	k:Eukaryota(1.00),p:Amorphea(0.98),c:Obazoa(0.98),o:Opisthokonta(0.98),f:Nucletmycea(0.95),g:Fungi(0.95),s:Dikarya(0.95)	1
+WWM100XDilBC10e6	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas sp. CCMP743(1.00)	16
+WWM100XDilBC10e6	k:Eukaryota(1.00),p:Archaeplastida(1.00),c:Chloroplastida(1.00),o:Charophyta(1.00),f:Phragmoplastophyta(1.00),g:Streptophyta(1.00),s:Embryophyta(1.00)	8
+WWM100XDilBC10e6	k:Eukaryota(1.00),p:Cryptophyceae(0.49),c:Cryptomonadales(0.49),o:Rhodomonas(0.49),f:Rhodomonas sp. CCMP743(0.49)	1
+WWM100XDilBC10e6	k:Eukaryota(1.00),p:SAR(1.00),c:Stramenopiles(1.00),o:Ochrophyta(1.00),f:Chrysophyceae(1.00),g:Chromulinales(1.00),s:uncultured(1.00)	1
+WWM10XDilBC10e5	k:Eukaryota(1.00),p:Archaeplastida(1.00),c:Chloroplastida(1.00),o:Charophyta(1.00),f:Phragmoplastophyta(1.00),g:Streptophyta(1.00),s:Embryophyta(1.00)	1
+WWM10XDilBC10e5	k:Eukaryota(1.00),p:SAR(1.00),c:Stramenopiles(1.00),o:Ochrophyta(1.00),f:Chrysophyceae(1.00),g:Chromulinales(1.00),s:uncultured(1.00)	1
+WWM10XDilBC10e6	k:Eukaryota(1.00),p:SAR(1.00),c:Rhizaria(1.00),o:Cercozoa(1.00),f:Cercomonadidae(1.00),g:Cercomonas(1.00),s:metagenome(1.00)	7
+WWRhodoM100XDilBC10e5	k:Eukaryota(1.00),p:Discoba(1.00),c:Jakobida(1.00),o:uncultured dinoflagellate(1.00)	94
+WWRhodoM100XDilBC10e5	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas sp. CCMP743(1.00)	49
+WWRhodoM100XDilBC10e5	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Cryptomonas(1.00),f:Cryptomonas paramecium(0.91)	18
+WWRhodoM100XDilBC10e5	k:Eukaryota(1.00),p:Archaeplastida(1.00),c:Chloroplastida(1.00),o:Charophyta(1.00),f:Phragmoplastophyta(1.00),g:Streptophyta(1.00),s:Embryophyta(1.00)	5
+WWRhodoM100XDilBC10e6	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas sp. CCMP743(1.00)	1609
+WWRhodoM100XDilBC10e6	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Cryptomonas(1.00),f:Cryptomonas paramecium(0.91)	308
+WWRhodoM100XDilBC10e6	k:Eukaryota(1.00),p:SAR(1.00),c:Stramenopiles(0.99),o:Ochrophyta(0.99),f:Chrysophyceae(0.99),g:Ochromonadales(0.97),s:Ochromonas(0.97)	72
+WWRhodoM100XDilBC10e6	k:Eukaryota(1.00),p:SAR(1.00),c:Stramenopiles(1.00),o:Ochrophyta(1.00),f:Chrysophyceae(1.00),g:Chromulinales(1.00),s:uncultured(1.00)	36
+WWRhodoM100XDilBC10e6	k:Eukaryota(1.00),p:Amorphea(1.00),c:Obazoa(1.00),o:Opisthokonta(1.00),f:Nucletmycea(1.00),g:Fungi(1.00),s:Cryptomycota(1.00)	17
+WWRhodoM100XDilBC10e6	k:Eukaryota(1.00),p:SAR(0.85),c:Stramenopiles(0.84),o:Ochrophyta(0.83),f:Chrysophyceae(0.82),g:Ochromonadales(0.82),s:Ochromonas(0.82)	4
+WWRhodoM100XDilBC10e6	k:Eukaryota(1.00),p:Cryptophyceae(0.62),c:Cryptomonadales(0.62),o:Hemiselmis(0.13),f:Hemiselmis rufescens(0.12)	3
+WWRhodoM100XDilBC10e6	k:Eukaryota(1.00),p:Cryptophyceae(0.69),c:Cryptomonadales(0.69),o:Rhodomonas(0.69),f:Rhodomonas sp. CCMP743(0.69)	2
+WWRhodoM100XDilBC10e6	k:Eukaryota(1.00),p:Amorphea(0.63),c:Obazoa(0.62),o:Opisthokonta(0.62),f:Nucletmycea(0.60),g:Fungi(0.60),s:Cryptomycota(0.60)	1
+WWRhodoM100XDilBC10e6	k:Eukaryota(1.00),p:Cryptophyceae(0.98),c:Cryptomonadales(0.98),o:Rhodomonas(0.98),f:Rhodomonas sp. CCMP743(0.98)	1
+WWRhodoM10XDilBC10e5	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas sp. CCMP743(1.00)	1
