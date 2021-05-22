@@ -170,3 +170,24 @@ Normalised connections
 <td valign="top">
 <img src="../figures/bc6dil10_normalised.png" >
 </td>
+
+## Mock standard curves
+
+<table>
+<tr>
+<td>
+Bacteria
+</td>
+<td>
+Eukaryotes
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="../figures/bact_mock_curve.png">
+</td>
+<td valign="top">
+<img src="../figures/euk_mock_curve.png">
+</td>
+</tr>
+</table>
