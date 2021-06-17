@@ -51,9 +51,9 @@ Prepare the PCR master mix:
 | Phusion DNA polymerase (2 U/µl) | 8 µl | 96 µl |
 
 1 µl of barcode-DNA + 1 µl of "Mock mix" was added: 
-- First set: 10e6 bc molecules, 1:10 mock mix (300 to 30 000 molecules) 
+- First set: 10e6 bc molecules, 1:10 mock mix (3e4 to 3e6 molecules) 
 - Second set: 10e5 bc molecules, 1:10 mock mix 
-- Third set: 10e6 bc molecules, 1:100 mock mix (30 to 3 000 molecules) 
+- Third set: 10e6 bc molecules, 1:100 mock mix (3e3 to 3e5 molecules) 
 - Fourth set: 10e5 bc molecules, 1:100 mock mix 
 
 a)  Combine 33 µl of sample (bead suspension) and 67 µl of master mix. Add 100 µl of fluorinated oil with surfactant. 
@@ -188,30 +188,30 @@ Primers used:
 
 | Sample | Barcode and mock-oligos | Target | i5 primer | i7 primer | 
 | :---: | :---: | :---: | :---: | :---: |
-| Biol standard | 10e6, 300 to 30 000 | 16S | N701 (89) | S502 (97) |
-| Biol standard | 10e5, 300 to 30 000 | 16S | N701 (89) | S503 (98) |
-| Biol standard | 10e6, 30 to 3000 | 16S | N701 (89) | S505 (99) |
-| Biol standard | 10e5, 30 to 3000 | 16S | N701 (89) | S506 (100) |
-| Biol standard | 10e6, 300 to 30 000 | 18S | N701 (89) | S507 (101) |
-| Biol standard | 10e5, 300 to 30 000 | 18S | N701 (89) | S508 (102) |
-| Biol standard | 10e6, 30 to 3000 | 18S | N701 (89) | S510 (103) |
-| Biol standard | 10e5, 30 to 3000 | 18S | N701 (89) | S511 (104) |
-| WW + Biol standard | 10e6, 300 to 30 000 | 16S | N702 (90) | S502 (97) |
-| WW + Biol standard | 10e5, 300 to 30 000 | 16S | N702 (90) | S503 (98) |
-| WW + Biol standard | 10e6, 30 to 3000 | 16S | N702 (90) | S505 (99) |
-| WW + Biol standard | 10e5, 30 to 3000 | 16S | N702 (90) | S506 (100) |
-| WW + Biol standard | 10e6, 300 to 30 000 | 18S | N702 (90) | S507 (101) |
-| WW + Biol standard | 10e5, 300 to 30 000 | 18S | N702 (90) | S508 (102) |
-| WW + Biol standard | 10e6, 30 to 3000 | 18S | N702 (90) | S510 (103) |
-| WW + Biol standard | 10e5, 30 to 3000 | 18S | N702 (90) | S511 (104) |
-| WW | 10e6, 300 to 30 000 | 16S | N703 (91) | S502 (97) |
-| WW | 10e5, 300 to 30 000 | 16S | N703 (91) | S503 (98) |
-| WW | 10e6, 30 to 3000 | 16S | N703 (91) | S507 (101) |
-| WW | 10e5, 30 to 3000 | 16S | N703 (91) | S508 (102) |
-| WW | 10e6, 300 to 30 000 | 18S | N703 (91) | S505 (99) |
-| WW | 10e5, 300 to 30 000 | 18S | N703 (91) | S506 (100) |
-| WW | 10e6, 30 to 3000 | 18S | N703 (91) | S510 (103) |
-| WW | 10e5, 30 to 3000 | 18S | N703 (91) | S511 (104) |
+| Biol standard | 10e6, 3e4 to 3e6 | 16S | N701 (89) | S502 (97) |
+| Biol standard | 10e5, 3e4 to 3e6 | 16S | N701 (89) | S503 (98) |
+| Biol standard | 10e6, 3e3 to 3e5 | 16S | N701 (89) | S505 (99) |
+| Biol standard | 10e5, 3e3 to 3e5 | 16S | N701 (89) | S506 (100) |
+| Biol standard | 10e6, 3e4 to 3e6 | 18S | N701 (89) | S507 (101) |
+| Biol standard | 10e5, 3e4 to 3e6 | 18S | N701 (89) | S508 (102) |
+| Biol standard | 10e6, 3e3 to 3e5 | 18S | N701 (89) | S510 (103) |
+| Biol standard | 10e5, 3e3 to 3e5 | 18S | N701 (89) | S511 (104) |
+| WW + Biol standard | 10e6, 3e4 to 3e6 | 16S | N702 (90) | S502 (97) |
+| WW + Biol standard | 10e5, 3e4 to 3e6 | 16S | N702 (90) | S503 (98) |
+| WW + Biol standard | 10e6, 3e3 to 3e5 | 16S | N702 (90) | S505 (99) |
+| WW + Biol standard | 10e5, 3e3 to 3e5 | 16S | N702 (90) | S506 (100) |
+| WW + Biol standard | 10e6, 3e4 to 3e6 | 18S | N702 (90) | S507 (101) |
+| WW + Biol standard | 10e5, 3e4 to 3e6 | 18S | N702 (90) | S508 (102) |
+| WW + Biol standard | 10e6, 3e3 to 3e5 | 18S | N702 (90) | S510 (103) |
+| WW + Biol standard | 10e5, 3e3 to 3e5 | 18S | N702 (90) | S511 (104) |
+| WW | 10e6, 3e4 to 3e6 | 16S | N703 (91) | S502 (97) |
+| WW | 10e5, 3e4 to 3e6 | 16S | N703 (91) | S503 (98) |
+| WW | 10e6, 3e3 to 3e5 | 16S | N703 (91) | S507 (101) |
+| WW | 10e5, 3e3 to 3e5 | 16S | N703 (91) | S508 (102) |
+| WW | 10e6, 3e4 to 3e6 | 18S | N703 (91) | S505 (99) |
+| WW | 10e5, 3e4 to 3e6 | 18S | N703 (91) | S506 (100) |
+| WW | 10e6, 3e3 to 3e5 | 18S | N703 (91) | S510 (103) |
+| WW | 10e5, 3e3 to 3e5 | 18S | N703 (91) | S511 (104) |
 
 
  Prepare following PCR mix :
